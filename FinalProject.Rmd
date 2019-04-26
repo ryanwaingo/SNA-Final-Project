@@ -1,5 +1,5 @@
 ---
-Hi Kimmie and Ha
+Hello everyone
 title: "R Notebook"
 author: "Your Group Member Names Here"
 date: "Your Submission Date Here"
